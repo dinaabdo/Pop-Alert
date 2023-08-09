@@ -53,7 +53,7 @@ body{
     text-decoration: none;
     display: block;
     color:var(--popular-color);
-    border: 1px solidvar(--popular-color);
+    border: 1px solid var(--popular-color);
     width: fit-content;
     margin: 30px auto;
     padding: 10px 20px;
